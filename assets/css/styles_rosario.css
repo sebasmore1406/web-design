@@ -1,0 +1,42 @@
+body {
+background-color: rgb(192, 236, 236);
+}
+h1 {font-family: "Tiny5";
+text-align: center;
+font-weight: normal;}
+
+h2 {
+    font-family: "Playwrite GB S";
+}
+h3 {
+    font-family: "Roboto"
+}
+h4 {
+    font-family: "Roboto";
+}
+p {
+    font-family: "Roboto";
+    text-align: justify;
+}
+
+.tiny5-regular {
+    font-family: "Tiny5", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+
+
+
+.playwrite-gb-s {
+    font-family: "Playwrite GB S", serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+.roboto-thin {
+    font-family: "Roboto", sans-serif;
+    font-weight: 100;
+    font-style: normal;
+  }
