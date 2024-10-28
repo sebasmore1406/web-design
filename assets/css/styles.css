@@ -1,0 +1,29 @@
+body {
+    background-color: #cbaa79;
+}
+
+h1 {
+    font-family: "Tiny5";
+    font-weight: normal;
+    text-align: center;
+}
+
+a {
+    font-family: "Roboto";
+}
+
+footer {
+    text-align: right;
+}
+
+.tiny5-regular {
+    font-family: "Tiny5", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+.roboto-regular {
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
