@@ -32,6 +32,9 @@ footer{
     text-align: right;
 }
 
+a{
+    font-family: 'Roboto';
+}
 
 .tiny5-regular {
     font-family: "Tiny5", sans-serif;
