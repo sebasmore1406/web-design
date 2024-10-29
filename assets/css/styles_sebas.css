@@ -3,8 +3,12 @@ body {
 }
 
 hr {
-    border-color: #5d8045;
-    color: #5d8045;
+    display: block;
+    height: 1px;
+    border: 0;
+    border-top: 3px solid #579b28;
+    margin: 1em 0;
+    padding: 0;
 }
 
 h1 {
