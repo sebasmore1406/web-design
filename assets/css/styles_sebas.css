@@ -1,0 +1,59 @@
+body {
+    background-color: #8ae44d;
+}
+
+hr {
+    border-color: #5d8045;
+    color: #5d8045;
+}
+
+h1 {
+    font-family: "Tiny5";
+    font-weight: normal;
+    text-align: center;
+}
+
+h2 {
+    font-family: "Playwrite GB S";
+}
+
+h3 {
+    font-family: "Roboto";
+}
+
+h4 {
+    font-family: "Roboto";
+}
+
+p {
+    font-family: "Roboto";
+    text-align: justify;
+}
+
+footer {
+    text-align: right;
+}
+
+img {
+    height: 250px;
+}
+
+.tiny5-regular {
+    font-family: "Tiny5", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+  
+.playwrite-gb-s {
+    font-family: "Playwrite GB S", cursive;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+.roboto-regular {
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
