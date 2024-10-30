@@ -13,35 +13,37 @@ hr {
 
 h1 {
     font-family: 'Tiny5';
+    font-size: 300%;
+    color: #9f559f;
     text-align: center;
     font-weight: normal;
 }
 
-h2{
+h2 {
     font-family: 'Playwrite GB S';
 }
 
-h3{
+h3 {
     font-family: 'Roboto';
 }
 
-h4{
+h4 {
     font-family: 'Roboto';
 }
 
-p{
+p {
     font-family: 'Roboto';
 }
 
-img{
+img { 
     width: 250px;
 }
 
-footer{
+footer {
     text-align: right;
 }
 
-a{
+a {
     font-family: 'Roboto';
 }
 
@@ -51,18 +53,15 @@ a{
     font-style: normal;
 }
   
- /*<uniquifier>: Use a unique and descriptive class name
- <weight>: Use a value from 100 to 400*/
-
-.playwrite-gb-s-team-mate.name {
-  font-family: "Playwrite GB S", cursive;
-  font-optical-sizing: auto;
-  font-weight: 400;
-  font-style: normal;
+.playwrite-gb-s {
+    font-family: "Playwrite GB S", cursive;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
 }
 
 .roboto-regular {
     font-family: "Roboto", sans-serif;
     font-weight: 400;
     font-style: normal;
-  }
+}

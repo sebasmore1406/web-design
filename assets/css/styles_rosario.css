@@ -13,6 +13,8 @@ hr {
 
 h1 {
     font-family: "Tiny5";
+    font-size: 300%;
+    color: #60b1b1;
     text-align: center;
     font-weight: normal;
 }
@@ -20,35 +22,40 @@ h1 {
 h2 {
     font-family: "Playwrite GB S";
 }
+
 h3 {
     font-family: "Roboto"
 }
+
 h4 {
     font-family: "Roboto";
 }
+
 p {
     font-family: "Roboto";
     text-align: justify;
+}
+
+footer {
+    font-family: "Roboto";
+    text-align: right;
 }
 
 .tiny5-regular {
     font-family: "Tiny5", sans-serif;
     font-weight: 400;
     font-style: normal;
-  }
-
-
-
+}
 
 .playwrite-gb-s {
-    font-family: "Playwrite GB S", serif;
+    font-family: "Playwrite GB S", cursive;
     font-optical-sizing: auto;
     font-weight: 400;
     font-style: normal;
-  }
+}
 
 .roboto-thin {
     font-family: "Roboto", sans-serif;
     font-weight: 100;
     font-style: normal;
-  }
+}
